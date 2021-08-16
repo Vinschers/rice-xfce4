@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=8;x=960;y=955"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="28"/>
+      <property name="size" type="uint" value="36"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="7"/>
+        <value type="int" value="2"/>
+        <value type="int" value="10"/>
+        <value type="int" value="15"/>
+        <value type="int" value="14"/>
+        <value type="int" value="17"/>
+        <value type="int" value="16"/>
+        <value type="int" value="18"/>
+        <value type="int" value="3"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="1"/>
+        <value type="int" value="8"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="13"/>
+        <value type="int" value="9"/>
+      </property>
+      <property name="disable-struts" type="bool" value="false"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager"/>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="discord"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="discord1"/>
+        <value type="string" value="gdlauncher1"/>
+        <value type="string" value="qBittorrent"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance10340;chromium.instance1093;chromium.instance1098;chromium.instance1100;chromium.instance12829;chromium.instance1378;chromium.instance1588;chromium.instance16959;chromium.instance23377;chromium.instance24226;chromium.instance3533;chromium.instance37352;chromium.instance3762;chromium.instance37732;chromium.instance4187;chromium.instance4384;chromium.instance4736;chromium.instance52518;chromium.instance5714;chromium.instance6806;chromium.instance687;chromium.instance697;chromium.instance711;chromium.instance778;chromium.instance799;chromium.instance802;chromium.instance806;chromium.instance807;chromium.instance810;chromium.instance813;chromium.instance820;chromium.instance821;chromium.instance833;chromium.instance841;chromium.instance854;chromium.instance857;chromium.instance862;chromium.instance876;chromium.instance897;chromium.instance899;chromium.instance901;chromium.instance923;chromium.instance929;chromium.instance932;chromium.instance9337;chromium.instance939;chromium.instance945;firefox.instance1147;firefox.instance1150;firefox.instance1218;firefox.instance1300;firefox.instance14201;firefox.instance1954;firefox.instance21547;firefox.instance3625;firefox.instance57083;firefox.instance596;firefox.instance681;firefox.instance686;firefox.instance761;firefox.instance7683;firefox.instance890;firefox.instance9226;firefox.instance9392"/>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="timezone" type="string" value="UTC"/>
+      <property name="digital-format" type="string" value="%_d/%m/%Y, %T"/>
+    </property>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-7" type="string" value="whiskermenu"/>
+    <property name="plugin-9" type="string" value="showdesktop"/>
+    <property name="plugin-1" type="string" value="xfce4-clipman-plugin"/>
+    <property name="plugin-10" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16259695581.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16265424742.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-16" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16265498701.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16265817911.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16266417821.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-18" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16279038381.desktop"/>
+      </property>
+    </property>
+  </property>
+</channel>

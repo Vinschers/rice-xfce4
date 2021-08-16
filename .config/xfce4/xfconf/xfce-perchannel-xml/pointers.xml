@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="pointers" version="1.0">
+  <property name="VirtualBox_mouse_integration" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="4"/>
+    <property name="Acceleration" type="double" value="0.000000"/>
+  </property>
+  <property name="Razer_Razer_BlackWidow_Chroma_V2_Keyboard" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="4"/>
+    <property name="Acceleration" type="double" value="0.000000"/>
+  </property>
+  <property name="USB_OPTICAL_MOUSE_" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="5.000000"/>
+  </property>
+</channel>
