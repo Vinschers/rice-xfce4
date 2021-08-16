@@ -1,0 +1,15 @@
+#pulseaudio-button image {
+    -gtk-icon-transform: scale(.75);
+}
+
+#xfce-panel-button image {
+	-gtk-icon-transform: scale(.75);
+}
+
+#xfce4-clipman-plugin image {
+	-gtk-icon-transform: scale(.75);
+}
+
+#clock-button label {
+	font-weight: bold;
+}
