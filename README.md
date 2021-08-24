@@ -1,4 +1,7 @@
-# Installation
+Please note that this README file is shared with all my rice and config repositories, so there is a section for each of them.
+
+# dotfiles
+## Installation
 
 ```sh
 git clone --bare https://github.com/Vinschers/dotfiles.git $HOME/dotfiles
@@ -6,3 +9,16 @@ git --git-dir=$HOME/dotfiles/ --work-tree=$HOME checkout 2>&1 | egrep "\s+\." | 
 git --git-dir=$HOME/dotfiles/ --work-tree=$HOME checkout
 git --git-dir=$HOME/dotfiles/ --work-tree=$HOME config --local status.showUntrackedFiles no
 ```
+
+# rice-xfce4
+## Dependencies
+- xf86-video-intel
+- xorg
+- xorg-xinit
+- xfce4
+- xfce4-goodies
+- gvfs
+- arc-gtk-theme
+- arc-icon-theme
+- noto-fonts
+- [matcha-gtk-theme](https://vinceliuice.github.io/theme-matcha.html)
