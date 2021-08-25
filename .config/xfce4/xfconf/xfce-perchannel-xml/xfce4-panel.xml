@@ -21,7 +21,6 @@
         <value type="int" value="16"/>
         <value type="int" value="18"/>
         <value type="int" value="3"/>
-        <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
         <value type="int" value="1"/>
@@ -42,7 +41,6 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-4" type="string" value="pager"/>
     <property name="plugin-5" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
@@ -61,13 +59,13 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance10340;chromium.instance1093;chromium.instance1098;chromium.instance1100;chromium.instance12829;chromium.instance1378;chromium.instance1588;chromium.instance16959;chromium.instance23377;chromium.instance24226;chromium.instance3533;chromium.instance37352;chromium.instance3762;chromium.instance37732;chromium.instance4187;chromium.instance4384;chromium.instance4736;chromium.instance52518;chromium.instance5714;chromium.instance6806;chromium.instance687;chromium.instance697;chromium.instance711;chromium.instance778;chromium.instance799;chromium.instance802;chromium.instance806;chromium.instance807;chromium.instance810;chromium.instance813;chromium.instance820;chromium.instance821;chromium.instance833;chromium.instance841;chromium.instance854;chromium.instance857;chromium.instance862;chromium.instance876;chromium.instance897;chromium.instance899;chromium.instance901;chromium.instance923;chromium.instance929;chromium.instance932;chromium.instance9337;chromium.instance939;chromium.instance945;firefox.instance1147;firefox.instance1150;firefox.instance1218;firefox.instance1300;firefox.instance14201;firefox.instance1954;firefox.instance21547;firefox.instance3625;firefox.instance57083;firefox.instance596;firefox.instance681;firefox.instance686;firefox.instance761;firefox.instance7683;firefox.instance890;firefox.instance9226;firefox.instance9392"/>
+      <property name="mpris-players" type="string" value="chromium.instance10340;chromium.instance1092;chromium.instance1093;chromium.instance1098;chromium.instance1100;chromium.instance1110;chromium.instance1190;chromium.instance1203;chromium.instance12829;chromium.instance1327;chromium.instance1378;chromium.instance1588;chromium.instance16066;chromium.instance16959;chromium.instance23377;chromium.instance24226;chromium.instance2508;chromium.instance29756;chromium.instance30724;chromium.instance3533;chromium.instance37098;chromium.instance37352;chromium.instance3762;chromium.instance37732;chromium.instance4187;chromium.instance4384;chromium.instance4736;chromium.instance52518;chromium.instance52751;chromium.instance5714;chromium.instance60686;chromium.instance6806;chromium.instance687;chromium.instance697;chromium.instance711;chromium.instance778;chromium.instance7839;chromium.instance799;chromium.instance802;chromium.instance806;chromium.instance807;chromium.instance810;chromium.instance813;chromium.instance816;chromium.instance820;chromium.instance821;chromium.instance833;chromium.instance836;chromium.instance841;chromium.instance8420;chromium.instance854;chromium.instance857;chromium.instance861;chromium.instance862;chromium.instance876;chromium.instance882;chromium.instance897;chromium.instance899;chromium.instance901;chromium.instance923;chromium.instance929;chromium.instance932;chromium.instance9337;chromium.instance939;chromium.instance945;firefox.instance1147;firefox.instance1150;firefox.instance1218;firefox.instance1300;firefox.instance14201;firefox.instance15719;firefox.instance16642;firefox.instance1707;firefox.instance1954;firefox.instance20015;firefox.instance21547;firefox.instance28206;firefox.instance28293;firefox.instance30394;firefox.instance35256;firefox.instance3625;firefox.instance3784;firefox.instance4277;firefox.instance57083;firefox.instance596;firefox.instance681;firefox.instance686;firefox.instance7237;firefox.instance761;firefox.instance7683;firefox.instance843;firefox.instance890;firefox.instance9226;firefox.instance9392"/>
     </property>
     <property name="plugin-11" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-12" type="string" value="clock">
-      <property name="timezone" type="string" value="UTC"/>
+      <property name="timezone" type="string" value="America/Sao_Paulo"/>
       <property name="digital-format" type="string" value="%_d/%m/%Y, %T"/>
     </property>
     <property name="plugin-13" type="string" value="separator">

@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=virtualbox.desktop,com.github.xournalpp.xournalpp.desktop,VSCodium.desktop,gdlauncher.desktop,org.keepassxc.KeePassXC.desktop,google-chrome.desktop,osu!lazer.desktop,OpenTabletDriver.desktop,net.lutris.Lutris.desktop,org.qbittorrent.qBittorrent.desktop
+recent=org.keepassxc.KeePassXC.desktop,librewolf.desktop,virtualbox.desktop,google-chrome.desktop,monero-gui.desktop,xfce4-terminal-emulator.desktop,htop.desktop,chia-blockchain.desktop,simple-scan.desktop,xfce4-mime-settings.desktop
 button-icon=archlinux-logo
 button-single-row=false
 show-button-title=false

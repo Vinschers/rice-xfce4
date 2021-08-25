@@ -1,6 +1,6 @@
 Please note that this README file is shared with all my rice and config repositories, so there is a section for each of them.
 
-# dotfiles
+# [dotfiles](https://github.com/Vinschers/dotfiles)
 ## Installation
 
 ```sh
@@ -10,7 +10,7 @@ git --git-dir=$HOME/dotfiles/ --work-tree=$HOME checkout
 git --git-dir=$HOME/dotfiles/ --work-tree=$HOME config --local status.showUntrackedFiles no
 ```
 
-# rice-xfce4
+# [rice-xfce4](https://github.com/Vinschers/rice-xfce4)
 ## Dependencies
 - xf86-video-intel
 - xorg
@@ -22,3 +22,6 @@ git --git-dir=$HOME/dotfiles/ --work-tree=$HOME config --local status.showUntrac
 - arc-icon-theme
 - noto-fonts
 - [matcha-gtk-theme](https://vinceliuice.github.io/theme-matcha.html)
+
+## Setup
+To run xfce4, don't forget to add `exec startxfce4` to your `.xinitrc`

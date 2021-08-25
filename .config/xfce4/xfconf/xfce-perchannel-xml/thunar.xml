@@ -9,4 +9,8 @@
   <property name="last-window-width" type="int" value="796"/>
   <property name="last-window-height" type="int" value="480"/>
   <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="hidden-bookmarks" type="array">
+    <value type="string" value="computer:///"/>
+    <value type="string" value="file:///home/scherer/Desktop"/>
+  </property>
 </channel>
