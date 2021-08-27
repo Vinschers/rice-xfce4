@@ -4,10 +4,10 @@ Please note that this README file is shared with all my rice and config reposito
 ## Installation
 
 ```sh
-git clone --bare https://github.com/Vinschers/dotfiles.git $HOME/dotfiles
-git --git-dir=$HOME/dotfiles/ --work-tree=$HOME checkout 2>&1 | egrep "\s+\." | awk {'print $1'} | xargs -I{} rm $HOME/{}
-git --git-dir=$HOME/dotfiles/ --work-tree=$HOME checkout
-git --git-dir=$HOME/dotfiles/ --work-tree=$HOME config --local status.showUntrackedFiles no
+git clone --bare https://github.com/Vinschers/dotfiles.git $HOME/.dotfiles-git
+git --git-dir=$HOME/.dotfiles-git/ --work-tree=$HOME checkout 2>&1 | egrep "\s+\." | awk {'print $1'} | xargs -I{} rm $HOME/{}
+git --git-dir=$HOME/.dotfiles-git/ --work-tree=$HOME checkout
+git --git-dir=$HOME/.dotfiles-git/ --work-tree=$HOME config --local status.showUntrackedFiles no
 ```
 
 # [rice-xfce4](https://github.com/Vinschers/rice-xfce4)
